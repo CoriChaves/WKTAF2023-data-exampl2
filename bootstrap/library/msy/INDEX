@@ -1,0 +1,20 @@
+Bevholt                 stock recruitment function
+Ricker                  stock recruitment function
+Segreg                  stock recruitment function
+Smooth_hockey           stock recruitment function
+bevholt2                stock recruitment function
+eqsim_ggplot            Plots of the results from eqsim
+eqsim_plot              Plots of the results from eqsim
+eqsim_plot_range        Calculate Fmsy range
+eqsim_run               Simulates the Equilibrium Results for a
+                        Population.
+eqsr_fit                Stock recruitment fitting
+eqsr_plot               Plot Simulated Predictive Distribution of
+                        Recruitment
+icesStocks              icesStocks
+initial                 Get starting values for models
+llik                    the log-likelihood of the rectuit function
+loader                  Progress function
+msy-package             Estimation of equilibrium reference points for
+                        fisheries
+segreg2                 stock recruitment function

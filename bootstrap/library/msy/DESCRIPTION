@@ -1,0 +1,38 @@
+Package: msy
+Type: Package
+Title: Estimation of equilibrium reference points for fisheries
+Version: 0.1.18
+Date: 2019-02-07
+Authors@R: c( person("John", "Simmonds", role = "aut"),
+       person("Einar", "Hjorleifsson", role = "aut"),
+       person("Carmen", "Fernandez", role = "ctb"), person("Colin",
+       "Millar", email = "colin.millar@ices.dk", role = c("aut",
+       "cre")) )
+Description: Methods to estimate equilibrium reference points for
+       fisheries data.  Currently data must be converted into
+       FLStock objects of the FLR (Fisheries Library in R) style,
+       defined in the R package FLCore.
+License: GPL (>= 2)
+LazyData: true
+URL: http://github.com/ices-tools-prod/msy
+BugReports: http://github.com/ices-tools-prod/msy/issues
+Imports: FLCore, ggplot2, reshape2, icesTAF, mgcv
+Additional_repositories: http://flr-project.org/R
+RoxygenNote: 7.0.2
+Encoding: UTF-8
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: msy
+RemoteUsername: ices-tools-prod
+RemoteRef: 27c1c67
+RemoteSha: 27c1c67f5d53cee3dc73aaad4b1e94e1ab41ba81
+GithubRepo: msy
+GithubUsername: ices-tools-prod
+GithubRef: 27c1c67
+GithubSHA1: 27c1c67f5d53cee3dc73aaad4b1e94e1ab41ba81
+Author: John Simmonds [aut],
+  Einar Hjorleifsson [aut],
+  Carmen Fernandez [ctb],
+  Colin Millar [aut, cre]
+Maintainer: Colin Millar <colin.millar@ices.dk>
+Built: R 4.2.2; ; 2023-01-24 15:16:36 UTC; windows
